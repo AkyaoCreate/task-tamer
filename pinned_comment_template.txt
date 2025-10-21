@@ -1,0 +1,3 @@
+Code, notes, and commands are here: [your link].
+If something failed, reply with Windows, macOS, or Linux plus the error line. I will help.
+What should we automate next

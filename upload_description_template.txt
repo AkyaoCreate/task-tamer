@@ -1,0 +1,20 @@
+Title
+VS Code and Python setup in 10 minutes for beginners
+
+Description
+In this video you will install Python and Visual Studio Code, set the PATH correctly, configure the Python extension, create a virtual environment, and run your first script. Copy ready commands for Windows, macOS, and Linux. Code and notes here: [your link]
+
+Chapters
+00:00 What you will get
+00:25 Install Python Windows macOS Linux
+02:40 Check PATH and versions
+03:20 Install Visual Studio Code
+04:10 Python extension and interpreter
+05:00 Create a virtual environment
+06:10 First script hello.py
+08:00 Optional format with Black and lint with Ruff
+09:15 Troubleshooting
+09:50 Next steps
+
+Tags
+python, vscode, python install, python beginners, automation, ai, task tamer
